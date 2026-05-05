@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Calculadora Unibra",
+    "slug": "calculadora-unibra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/unibra-white.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a1a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/unibra-white.png",
+        "backgroundColor": "#1a1a1a"
+      }
+    },
+    "web": {
+      "favicon": "./assets/unibra-white.png"
+    }
+  }
+}
